@@ -1,0 +1,84 @@
+.wall_paper {
+  width: 1000px;
+  height: 1000px;
+}
+
+.calculater {
+  width: 500px;
+  height: 300px;
+}
+
+#result {
+  width: 500px;
+  height: 60px;
+  background-color: black;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.button_container0 {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_container0 > button {
+  width: 25%;
+  padding: 15px 0px;
+  margin: 1px;
+}
+
+.button_container1 {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_container1 > button {
+  width: 25%;
+  padding: 15px 0px;
+  margin: 1px;
+}
+
+.button_container2 {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_container2 > button {
+  width: 25%;
+  padding: 15px 0px;
+  margin: 1px;
+}
+
+.button_container3 {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_container3 > button {
+  width: 25%;
+  padding: 15px 0px;
+  margin: 1px;
+}
+
+.button_container4 {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_container4 > button {
+  width: 50%;
+  padding: 15px 0px;
+  margin: 1px;
+}
